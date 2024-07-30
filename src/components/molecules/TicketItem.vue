@@ -27,7 +27,7 @@ import gsap from 'gsap';
 
         <div class="flex flex-col w-full h-full rounded-xl overflow-hidden pointer-events-none">
 
-            <div class="flex items-center w-full h-[64px] px-4 bg-blue-500 ">
+            <div class="flex items-center w-full h-[64px] px-4 bg-gradient-to-r from-blue-500 to-blue-400 from-50%">
                 <img src="../../assets/logo.png" class="w-[32px] h-[32px]" alt="gxpのロゴ">
                 <h1 class="text-white font-bold ml-2">GXP AIRLINE</h1>
             </div>
